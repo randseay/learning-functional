@@ -1,0 +1,15 @@
+{
+  "name": "learning-functional",
+  "version": "0.0.0",
+  "description": "Explorations in functional programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rand Seay",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "ramda": "^0.16.0"
+  }
+}
